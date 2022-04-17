@@ -1,0 +1,9 @@
+{
+	"name": "dt-adf-experimentation",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96a67007-89fa-407f-b80b-20950f02cc52",
+		"tenantId": "b15b6f9d-0154-4386-aeb1-c1178d6bd49b"
+	}
+}
